@@ -2,11 +2,11 @@
 
 This readme is currently a stub and as such is in development.
 
-Ultimately, this readme will act as a guide to contributing to the develop of the SimpleX android app.
+Ultimately, this readme will act as a guide to contributing to the development of the SimpleX android app.
 
 ## Gotchas
 
-#### SHA Signature for verification for app links/deep links
+#### SHA Signature for verification of app links/deep links
 
 In order for the SimpleX app to be automatically adopted for opening links from https://simplex.chat the SHA certificate fingerprint for the App installed on the phone must be in the hosted [assetlinks.json](https://simplex.chat/.well-known/assetlinks.json) file on simplex.chat.
 
